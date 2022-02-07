@@ -7,6 +7,9 @@ module.exports = {
   darkMode: 'class', // class, 'media' or boolean
   theme: {
     extend: {
+      fontFamily: {
+        special: ['Lobster', 'cursive'],
+    },
       colors: {
         gray: {
           900: '#202225',

@@ -1,0 +1,17 @@
+@import "tailwindcss/components";
+@layer components {
+    .projectObject {
+        background-image: no-repeat center center;
+        background-size: cover;
+        @apply w-[30%] h-[30vh] bg-gray-700 shadow-lg rounded-lg m-10;
+    }
+    .projectObjectinside {
+        @apply m-0 w-full h-full opacity-0 flex justify-center items-center flex-col;
+    }
+    .projectObjectinside:hover {
+        @apply bg-gray-900 opacity-80;
+    }
+
+
+  
+}

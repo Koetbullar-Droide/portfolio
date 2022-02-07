@@ -1,0 +1,9 @@
+@import "tailwindcss/components";
+@layer components {
+    .top-bar {
+        @apply bg-gray-900 w-screen h-[8vh] fixed shadow-2xl text-white flex items-center;
+    }
+    .icons-top {
+        @apply m-4 font-medium font-mono text-xl;
+    }
+}
