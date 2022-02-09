@@ -5,6 +5,7 @@
 @import "./components/welcome/welcome.css";
 @import "./components/Storypage/storypage.css";
 @import "./components/projects/projects.css";
+@import "./components/About/about.css";
 *,
 *::before,
 *::after {
