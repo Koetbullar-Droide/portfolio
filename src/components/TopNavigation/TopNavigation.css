@@ -4,7 +4,7 @@
         @apply bg-gray-900 w-screen h-[8vh] fixed shadow-2xl text-white flex items-center z-10;
     }
     .icons-top {
-        @apply m-4 font-semibold text-xl hover:border-b-2;
+        @apply m-4 font-normal text-xl transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300;
     }
     .transparent-bar {
         @apply bg-transparent w-screen h-[8vh] fixed text-white flex items-center z-10;

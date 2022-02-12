@@ -21,11 +21,11 @@ function Projects () {
     return(
         <div className="w-full pb-16 bg-gray-800 snap-center flex justify-center flex-wrap">
             <div className="w-full items-center flex justify-center text-center">
-                <div className="w-[45%] text-4xl text-center flex flex-col items-center mb-40">
-                <p className="text-white font-normal mt-36">
+                <div className="w-[45%] text-4xl text-center flex flex-col items-center mb-48">
+                <p className="text-white font-normal mt-48">
                     I'm Wendy Ju, a UIUX designer based in NYC, who's passionate about creating digital experiences through problem-solving. I'm all about combining visual design with product thinking to bring meaningful experiences alive.
                 </p>
-                <div className=" w-10 h-2 rounded-lg bg-white mt-14"></div>
+                <div className=" w-10 h-2 rounded-lg bg-white mt-14" id="projects"></div>
                 </div>
             </div>
             

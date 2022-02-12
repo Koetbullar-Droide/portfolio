@@ -6,7 +6,7 @@
 @import "./components/Storypage/storypage.css";
 @import "./components/projects/projects.css";
 @import "./components/About/about.css";
-@import "./components/projects/UnderProjects/RaspberryPi/index.css";
+@import "./components/projects/UnderProjects/Template/index.css";
 *,
 *::before,
 *::after {
