@@ -2,7 +2,7 @@ import React from "react";
 
 function Sidebar () {
     return (
-        <div>
+        <div className=" hidden md:block">
             <div className="h-screen fixed flex items-center  flex-col-reverse text-white text-3xl z-10 ml-5">
             <div className="h-[20vh] bg-white w-[0.1rem] mt-3"></div>
             <a href="mailto:jannik.luethi@ksrb.ch" className="my-3 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300"><i class="fa-solid fa-envelope not-italic"></i></a>

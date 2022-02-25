@@ -1,7 +1,7 @@
 @import "tailwindcss/components";
 @layer components {
     .projectObject {
-        @apply w-[40%] h-[40vh] bg-gray-700 shadow-lg rounded-lg m-5 overflow-hidden;
+        @apply md:w-[40%] w-[80%] h-[40vh] bg-gray-700 shadow-lg rounded-lg m-5 overflow-hidden;
     }
     .backgroundimage:hover{
         transform: scale(1.1);

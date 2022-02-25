@@ -1,12 +1,25 @@
 @import "tailwindcss/components";
 @layer components {
+    body {
+        @apply bg-gray-800;
+    }
     .top-bar {
         @apply bg-gray-900 w-screen h-[8vh] fixed shadow-2xl text-white flex items-center z-10;
     }
     .icons-top {
-        @apply m-4 font-normal text-xl transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300;
+        @apply not-italic m-4 font-normal text-xl transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300;
     }
     .transparent-bar {
         @apply bg-transparent w-screen h-[8vh] fixed text-white flex items-center z-10;
+    }
+    .mobilTopBaropen {
+        @apply w-full fixed h-screen bg-gray-900 flex flex-row items-center justify-center m-0;
+
+    }
+    .mobilTopBarclosed {
+        @apply hidden;
+    }
+    .desktopTopBar {
+        @apply justify-center items-center;
     }
 }

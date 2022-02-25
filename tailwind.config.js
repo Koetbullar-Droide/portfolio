@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        special: ['Lobster', 'cursive'],
+        special: ['Oswald', 'sans-serif'],
     },
       colors: {
         gray: {
