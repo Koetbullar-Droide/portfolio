@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactMe () {
     return (
-        <div className=" w-full h-[60vh] bg-gray-800 flex justify-center items-center text-white flex-col font-normal text-lg md:text-2xl" id="contact">
+        <div className=" w-full h-[60vh] bg-gray-900 flex justify-center items-center text-white flex-col font-normal text-lg md:text-2xl" id="contact">
             <h2 className=" my-16 text-6xl md:text-7xl font-special">Interessiert?</h2>
             <p className=" mb-2">Du magst mich und möchtest Kontakt mit mir?</p>
             <p className="mb-8">Keine Scheue und schreibe mir eine Mail.</p>

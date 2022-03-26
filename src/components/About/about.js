@@ -7,7 +7,7 @@ function About () {
         <div className="p-0">
             <Sidebar/>
             <TopNavigation/>
-            <div className=" bg-gray-800 w-full text-white text-center flex justify-center items-center flex-col p-0" id="about">
+            <div className=" bg-gray-900 w-full text-white text-center flex justify-center items-center flex-col p-0" id="about">
                 
                 
                 

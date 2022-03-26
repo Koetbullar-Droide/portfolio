@@ -19,7 +19,7 @@ function OneProject (props){
 function Projects () {
 
     return(
-        <div className="w-full pb-16 bg-gray-800 snap-center flex justify-center flex-col md:flex-row items-center md:flex-wrap" id="smallaboutme">
+        <div className="w-full pb-16 bg-gray-900 snap-center flex justify-center flex-col md:flex-row items-center md:flex-wrap" id="smallaboutme">
             <div className="w-full items-center flex justify-center text-center">
                 <div className="md:w-[45%] w-[70%] text-lg md:text-4xl text-center flex flex-col items-center mb-28 md:mb-48">
                 <p className="text-white font-normal mt-28 md:mt-48">

@@ -10,7 +10,7 @@ function OverviewSection (props) {
         <div>
             <Sidebar/>
             <TopNavigation/>
-            <div className=" h-full min-h-[90vh] w-full bg-gray-800 text-white flex items-center justify-center">
+            <div className=" h-full min-h-[90vh] w-full bg-gray-900 text-white flex items-center justify-center">
                 <div className="w-[70%] h-full ">
                     <h1 className=" text-6xl font-special font-bold mt-20">{props.title}</h1>
                     <div className=" mt-12 bottom-10 flex flex-col">
@@ -52,7 +52,7 @@ function MainImage (props) {
 
 function TextSection (props) {
     return (
-        <div className=" w-full flex items-center justify-center bg-gray-800 text-white">
+        <div className=" w-full flex items-center justify-center bg-gray-900 text-white">
             <div className=" md:w-[60%] w-[90%]">
                 <h2 className=" font-special text-4xl font-semibold mt-20 mb-14">{props.title}</h2>
                 <p className="font-normal text-xl">{props.text}</p>
@@ -72,7 +72,7 @@ function TextSection (props) {
 function End (props) {
     return (
         <div>
-            <div className="w-full flex items-center justify-center bg-gray-800 text-white">
+            <div className="w-full flex items-center justify-center bg-gray-900 text-white">
             <div className=" font-normal text-2xl flex my-20 justify-center items-center w-full h-20">
                         <a href={props.lastproject} className=" self-start hover:line-through hover:cursor-pointer" >Letztes Projekt</a>
                         <a href={props.nextproject} className=" self-end hover:line-through hover:cursor-pointer" >Nächstes Projekt</a>
@@ -95,8 +95,8 @@ function Image (props) {
 
 function ImagesPlace (props) {
     return (
-    <div className="flex items-center justify-center bg-gray-800 w-full">
-        <div className="md:w-[60vw] w-[90vw] flex items-center justify-center bg-gray-800 flex-wrap">
+    <div className="flex items-center justify-center bg-gray-900 w-full">
+        <div className="md:w-[60vw] w-[90vw] flex items-center justify-center bg-gray-900 flex-wrap">
             {props.children}
         </div>
     </div>

@@ -13,7 +13,7 @@ import { Navigation, Pagination } from "swiper";
 
 function Storypage() {
   return (
-    <div className=" w-full h-screen pb-16 bg-gray-800 snap-center flex flex-col items-center">
+    <div className=" w-full h-screen pb-16 bg-gray-900 snap-center flex flex-col items-center">
         <div className="flex flex-row justify-center items-center h-[20vh]">
             <div className="avatar"></div>
             <h1 className=" ml-8 font-bold font-special text-white text-6xl"> My Projects</h1>
