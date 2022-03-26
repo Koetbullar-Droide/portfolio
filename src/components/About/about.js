@@ -11,7 +11,7 @@ function About () {
                 
                 
                 
-                <div className=" lg:w-[45%] w-[80%] items-center flex flex-col">
+                <div className=" lg:w-[60%] w-[85%] items-center flex flex-col">
                     <h2 className="font-special text-4xl md:text-6xl mt-36 inline-block lg:self-start" >😉 About Jannik</h2>
                     <div className="profilimage"></div>
                     <p className=" font-normal text-base md:text-2xl">
@@ -21,18 +21,18 @@ function About () {
 
 
                         <div className=" self-start w-[50%] text-left mt-10 mb-5">
-                            <h3 className=" text-lg md:text-3xl font-bold mb-5">Meine Interessen ❤️</h3>
-                            <ul className=" self-start font-semibold text-base md:text-2xl text-red-600 uppercase">
+                            <h3 className=" text-lg lg:text-3xl md:text-2xl font-bold mb-5">Meine Interessen ❤️</h3>
+                            <ul className=" self-start font-semibold text-base lg:text-2xl md:text-xl text-red-600 uppercase">
                                 <li>programmieren   💻</li>
                                 <li>Pfadfinder      🌲</li>
                                 <li>Badminton       🏸</li>
-                                <li>Filme            🎬</li>
+                                <li>Kochen & Essen   🍣</li>
                             </ul>
                         </div>
 
                         <div className=" self-start w-[50%] text-left mt-10 mb-5">
-                            <h3 className=" text-lg md:text-3xl font-bold mb-5">Meine Stärken 💪</h3>
-                            <ul className=" self-start font-semibold text-base md:text-2xl text-red-600 uppercase">
+                            <h3 className=" text-lg lg:text-3xl md:text-2xl font-bold mb-5">Meine Stärken 💪</h3>
+                            <ul className=" self-start font-semibold text-base lg:text-2xl md:text-xl text-red-600 uppercase">
                                 <li>zielorientiert   🏁</li>
                                 <li>höflich             </li>
                                 <li>freundlich         🤗</li>
@@ -43,8 +43,8 @@ function About () {
                         <div className=" w-full bg-white h-[0.1rem] mt-10"></div>
 
                         <div className=" self-start w-[50%] text-left mt-10 mb-5">
-                            <h3 className=" text-lg md:text-3xl font-bold mb-5">Sprachen    💬</h3>
-                            <ul className=" self-start font-semibold text-sm md:text-2xl uppercase">
+                            <h3 className=" text-lg lg:text-3xl md:text-2xl font-bold mb-5">Sprachen    💬</h3>
+                            <ul className=" self-start font-semibold text-sm lg:text-2xl md:text-xl uppercase">
                                 <li>Deutsch (Muttersp.) 🇩🇪</li>
                                 <li>Englisch (5 J.)     🇬🇧</li>
                                 <li>Französisch (2 J.) 🇫🇷</li>
@@ -52,8 +52,8 @@ function About () {
                         </div>
 
                         <div className=" self-end w-[50%] text-left mt-10 mb-5">
-                            <h3 className=" text-lg md:text-3xl font-bold mb-5">Schulbildung 🏫</h3>
-                            <ul className=" self-start font-semibold text-sm md:text-2xl uppercase">
+                            <h3 className=" text-lg lg:text-3xl md:text-2xl font-bold mb-5">Schulbildung 🏫</h3>
+                            <ul className=" self-start font-semibold text-sm lg:text-2xl md:text-xl uppercase">
                                 <li>2. Bez</li>
                                 <li>1.Bez</li>
                                 <li>Primarschule</li>

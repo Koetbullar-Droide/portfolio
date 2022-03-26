@@ -42,7 +42,7 @@ function OverviewSection (props) {
 function MainImage (props) {
     return (
         <div 
-        className=" w-full h-[90vh] fullpagee"
+        className=" w-full h-[90vh] fullpagee bg-center bg-cover bg-fixed"
         style={{backgroundImage: `url("${props.image}")`}}
         >
 

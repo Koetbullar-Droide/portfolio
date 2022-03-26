@@ -8,7 +8,8 @@
         background-size: cover;
     }
     .image-background {
-        background: no-repeat center center; 
+        background: no-repeat; 
+        background-attachment: scroll;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;

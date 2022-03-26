@@ -16,7 +16,7 @@ function Welcome() {
         <button onClick={
           () => {document.getElementById('smallaboutme').scrollIntoView({ behavior: 'smooth' });}
         } className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-30">
-          <i class="fas fa-arrow-down font-serif text-2xl md:text-5xl font-normal"></i>
+          <i class="fa-solid fa-arrow-down text-2xl md:text-5xl font-normal"></i>
         </button>
         
       </div>
