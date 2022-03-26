@@ -42,7 +42,7 @@ function TopNavigation() {
         <button onClick={() => scrollTo('projects')}><li className="icons-top"><i class="fa-solid fa-flask mr-2 not-italic"></i>Projects</li></button>
         <button onClick={() => scrollTo('about')}><li className="icons-top"><i class="fas fa-address-card fa-md mr-2"></i>About</li></button>
         
-        <button onClick={() => scrollTo('contact')} className=" border-2 rounded-md h-[5vh] p-0 flex items-center justify-center transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-100 duration-300"><li className="font-normal text-xl my-0 mx-3">Contact Me</li></button>
+        <button onClick={() => scrollTo('contact')} className=" border-2 rounded-md h-[5vh] p-0 flex items-center justify-center transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-100 duration-300"><li className="font-normal text-xl my-0 mx-3">Contact</li></button>
       </ul>
       <ul>
         <button onClick={() => scrollTo('welcome')}>

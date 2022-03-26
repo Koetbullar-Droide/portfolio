@@ -1,9 +1,20 @@
 @import "tailwindcss/components";
 @layer components {
-    .fullpage {
-        background: url("./background.jpg") ; 
-        background-size: cover;
-        @apply flex items-center flex-col bg-no-repeat bg-fixed bg-center bg-cover;
+    .fullpage::before{
+        content: ' ';
+            display: block;
+            background-image: url('./background.jpg');
+            background-position: center;
+            background-size: cover;
+            height: 100vh;
+            width: 100vw;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+            z-index: -10; 
+        @apply flex items-center flex-col ;
     }
   
 }

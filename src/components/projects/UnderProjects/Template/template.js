@@ -42,7 +42,7 @@ function OverviewSection (props) {
 function MainImage (props) {
     return (
         <div 
-        className=" w-full h-[90vh] fullpagee bg-center bg-cover bg-fixed"
+        className=" w-full h-[90vh] bg-center bg-cover bg-scroll xl:bg-fixed bg-no-repeat"
         style={{backgroundImage: `url("${props.image}")`}}
         >
 
@@ -86,8 +86,9 @@ function End (props) {
 }
 
 function Image (props) {
+    const imageurl = props.url;
     return (
-        <div className="image-background md:w-[60%] w-full h-[40vh] rounded-sm m-5" style={{backgroundImage: `url("${props.url}")`}}></div>
+        <div className=" bg-no-repeat bg-center bg-cover bg-gray-400 md:w-[80%] w-full h-[50vh] rounded-sm m-5" style={{ backgroundImage: `url(${imageurl})` }}></div>
     );
 
 }
