@@ -7,7 +7,7 @@ function Pc () {
             <OverviewSection
             title="My own Gaming Pc"
             description="
-            Ich habe meinen eigenen Pc von Grund auf gebaut. Die Hardware ausgesucht, zusammen gebaut und Software installiert. Meine ersten Schritte in richtung Hardware.
+            Ich habe meinen eigenen Pc von Grund auf gebaut. Die Hardware ausgesucht, zusammen gebaut und Software installiert. Meine ersten Schritte in Richtung Hardware.
             "
             year="2018"
             kind="individuelles Projekt"
@@ -15,13 +15,13 @@ function Pc () {
             Pc, Hardware
             "
             />
-            <MainImage image="https://images.unsplash.com/photo-1625842268584-8f3296236761?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"/>
+            <MainImage image="https://images.unsplash.com/photo-1552585155-f5c1efa32555?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"/>
             <TextSection
             title='
             My own Pc
             '
             text='
-            Das Ziel war einen eigenen Pc zu bauen der in der Lage ist Games zu laden und nicht zu hohe Kosten verursacht. Zum Glück kannte ich jemandem im Bekannten Kreis der noch gute gebrauchte Hardware anbieten konnte. Dadurch musste ich weniger Teile dazu kaufen. Bis ich alle passenden Teile gekriegt habe, die aufeinander abgestimmt waren, verging eine Weile. Doch eines Tages kam der aufregende Tag des Zusammenbaus. Ich baute alle Teile zusammen und steckte meinen bootfähigen Stick rein um Windows zu installieren. Die Installation verlief ganz gut, aber merkwürdigerweise stürzte er manchmal nach dem Start wieder ab. Nach ein paar Recherchen stellte sich heraus das die Festplatte nicht ordnungsgemäß funktionierte. Das Problem ließ sich aber schnell beheben.
+            Zuerst musste ich die Hardware aussuchen, dabei war das Schwierigste, dass alle Teile miteinander funktionieren. Ich konnte viele passende gebrauchte Teile auftreiben. Danch habe ich den PC zusammen gebaut und das Betriebsystem drauf installiert. Bedauerlicherweise war die Festplatte defekt und ich musste sie ersetzten. Bis ich wusste, dass es an der Festplatte lag, verging eine Weile.
 
 
             '

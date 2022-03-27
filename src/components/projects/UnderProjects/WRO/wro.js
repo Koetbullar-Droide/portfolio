@@ -7,7 +7,7 @@ function WRO () {
             <OverviewSection
             title="World Robot Olympiad"
             description="
-            An der World Robot Olympiad(WRO) löst man mit Lego Roboten von Minestorms verschiedene Aufgaben um Punkte zu kriegen. Ich habe mit einem Team vom Tüftelatelier daran teilgenommen.
+            An der World Robot Olympiad(WRO) löst man mit Lego Roboten von Mindstorms verschiedene Aufgaben um Punkte zu kriegen. Ich habe mit einem Team vom Tüftelatelier daran teilgenommen.
             "
             year="2019"
             kind="Team Projekt"
@@ -21,8 +21,15 @@ function WRO () {
             Beschreibung
             '
             text='
-            Jedes Jahr gibt es bei der WRO ein Thema und dazu passende Aufgaben. Im Jahr 2019 musste man alte Lampen durch neue ersetzen mit Hilfe eines Lego Mindstorms. Die genauere Aufgabenstellung können Sie beim Link unter dem Text nachlesen. Im Tüftelatelier konstruierten wir den Roboter und haben mittels der eigenen Programmiersprache des Roboters ihn programmiert. Der Roboter musste perfekt an die Aufgaben angepasst werden. Zum Beispiel brauchte er einen geeigneten Arm um die Lampen zu greifen und auch geeignete Sensoren um sich zu orientieren. Dies musste man auch alles noch vernetzen und abstimmen.
-
+            Jedes Jahr gibt es bei der WRO ein Thema und dazu passende Aufgaben. Im
+ Jahr 2019 musste man alte Lampen durch neue ersetzen mit Hilfe eines 
+Lego Mindstorms. Die genauere Aufgabenstellung können Sie beim Link 
+unter dem Text nachlesen. Im Tüftelatelier konstruierten wir den Roboter
+ und haben mittels der eigenen Programmiersprache des Roboters ihn 
+programmiert. Der Roboter musste perfekt an die Aufgaben angepasst 
+werden. Zum Beispiel brauchte er einen geeigneten Arm, um die Lampen zu 
+greifen und auch geeignete Sensoren um sich zu orientieren. Dies musste 
+man auch alles noch vernetzen und aufeinander abstimmen.
 
             '
             ><a href="https://worldrobotolympiad.ch/junior-2019/" className=" text-blue-500 underline">World Robot Olympiad Aufgabenstellung 2019</a></TextSection>

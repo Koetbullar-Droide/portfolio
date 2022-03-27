@@ -21,8 +21,7 @@ function RaspberryPi () {
             My own Nextcloud
             '
             text='
-            Das Ziel war eine kleine eigene Cloud zu haben auf der man seine eigenen Daten ablegen kann. Dazu habe ich einen Raspberry Pi 3 verwendet, der gerade genügend Leistung bietet. Hinzu kommen noch eine SD-Karte und die Software. Ich habe mich für Nextcloud als Software entschieden, weil es eine gute Benutzererfahrung bietet und Open Source ist. Zuerst habe ich eine ISO für den Raspberry Pi heruntergeladen, die Nextcloud schon drauf hat. Danach auf die SD-Karte geflasht und in den Raspberry Pi gesteckt. Dann habe ich ihn über LAN mit dem Router verbunden und ins Router-Interface eingeloggt um die lokale IP-Adresse des Raspberry Pis herauszufinden und zu reservieren. Mittels dem Browser griff ich auf den Raspberry Pi zu um die Konfiguration abzuschließen. Ich habe auch noch eine externe Festplatte angeschlossen um den Speicher zu erhöhen. Die konnte ich auch in der Konfiguration formatieren und als Haupt Speichermedium auswählen. Zu meinem entsetzen ist der Raspberry Pi 3 nicht gerade der Schnellste, aber vielleicht lag es auch an der ziemlich alten Festplatte.
-
+            Das Ziel war eine kleine eigene Cloud zu haben auf der man seine eigenen Daten ablegen kann. Dazu habe ich einen Raspberry Pi 3 verwendet, der gerade genügend Leistung bietet. Ich habe auf die SD-Karte das Betriebsystem drauf geladen, ihn ans Netzwerk gehängt und Nextcloud installiert. Dabei konnte ich etwas über Netzwerk-Technik erfahren und auch die erste Bekanntschaft machen mit dem Linuxsystem, mit welchem ich mich über SSH verbunden habe.
 
             '
             />
