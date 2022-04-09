@@ -7,7 +7,7 @@ function Unity () {
             <OverviewSection
             title="Unity Engine Course"
             description="
-            Ich habe an einem Kurs über Unity zur Game Entwicklung teilgenommen. Dort konnte ich meine ersten Schritte beginnen ein kleines Game zu machen.
+            Ich habe an einem Kurs über Unity zur Game Entwicklung teilgenommen. Dort konnte ich meine ersten Schritte beginnen, ein kleines Game zu machen.
             "
             year="2020"
             kind="Kurs"
@@ -21,7 +21,7 @@ function Unity () {
             Der kleine Drache
             '
             text='
-            In diesem Kurs haben ich über eine Woche lang gelernt wie man ein einfaches 2D-Game macht. Das Game bestand grundsätzlich aus einem Drache der durch eine Höhle fliegt mit vielen Spitzen. Ich konnte so die Grundsätze wie ein Game aufgebaut ist besser verstehen. Des Weiteren konnte ich die Programmiersprache C# anreissen. Dieser Kurs wurde von Futurkids in Zürich durchgeführt.
+            In diesem Kurs haben ich über eine Woche lang gelernt, wie man ein einfaches 2D-Game macht. Das Game bestand grundsätzlich aus einem Drache der durch eine Höhle fliegt mit vielen Spitzen. Ich konnte so die Grundsätze, wie ein Game aufgebaut ist, besser verstehen. Des weiteren konnte ich die Programmiersprache C# anreissen. Dieser Kurs wurde von Futurkids in Zürich durchgeführt.
 
             '
             />

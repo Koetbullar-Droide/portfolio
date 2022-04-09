@@ -22,8 +22,6 @@ function Pc () {
             '
             text='
             Zuerst musste ich die Hardware aussuchen, dabei war das Schwierigste, dass alle Teile miteinander funktionieren. Ich konnte viele passende gebrauchte Teile auftreiben. Danch habe ich den PC zusammen gebaut und das Betriebsystem drauf installiert. Bedauerlicherweise war die Festplatte defekt und ich musste sie ersetzten. Bis ich wusste, dass es an der Festplatte lag, verging eine Weile.
-
-
             '
             />
             <ImagesPlace>

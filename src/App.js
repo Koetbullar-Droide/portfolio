@@ -16,6 +16,7 @@ function App() {
       <Projects/>
       <About></About>
       <ContactMe/>
+      
       <Footer/>
     </div>
   );

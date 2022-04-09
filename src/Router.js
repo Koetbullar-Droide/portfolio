@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 import Unity from "./components/projects/UnderProjects/Unity/unity";
 import Pc from "./components/projects/UnderProjects/Pc/pc";
+import Resume from "./components/resume/resume";
 
 function Routing () {
     return (
@@ -22,6 +23,7 @@ function Routing () {
                 <Route path='/WRO' element={<WRO/>} />
                 <Route path='/Unity' element={<Unity/>} />
                 <Route path='/Pc' element={<Pc/>} />
+                <Route path='/resume' element={<Resume/>} />
             </Routes>
         </Router>
     );

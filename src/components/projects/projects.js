@@ -23,7 +23,7 @@ function Projects () {
             <div className="w-full items-center flex justify-center text-center">
                 <div className="md:w-[45%] w-[70%] text-lg md:text-4xl text-center flex flex-col items-center mb-28 md:mb-48">
                 <p className="text-white font-normal mt-28 md:mt-48">
-                Ich bin Jannik Lüthi, lebe in Niederrohrdorf und meine Leidenschaft ist die Informatik. Schon früh fand ich meine Neugierde in der Technik und möchte auch in Zukunft mehr eintauchen. Viele Projekte habe ich schon in diesem Gebiet gemacht. Hier sind einige zusehen.
+                Ich bin Jannik Lüthi, lebe in Niederrohrdorf und meine Leidenschaft ist die Informatik. Schon früh fand ich meine Neugierde auf die Technik und möchte in Zukunft weiter eintauchen. Seither habe ich mehrere Projekte in diesem Gebiet entwickelt und abgeschlossen. Hier sind einige zu sehen.
                 </p>
                 <div className=" w-10 h-1 md:h-2 rounded-lg bg-white mt-14" id="projects"></div>
                 </div>

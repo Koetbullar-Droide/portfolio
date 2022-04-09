@@ -7,7 +7,7 @@ function RaspberryPi () {
             <OverviewSection
             title="Raspberry Pi"
             description="
-            Raspberry Pi ist ein Einplatinen Computer mit dem man vieles vollbringen kann. Ich habe es vor allem für den ersten Schritt gebraucht in Richtung meiner eigenen Cloud. Dabei konnte ich die Serververwaltung näher kennen lernen.
+            Raspberry Pi ist ein Einplatinen-Computer mit dem man vieles vollbringen kann. Ich habe es vor allem für den ersten Schritt gebraucht in Richtung meiner eigenen Cloud. Dabei konnte ich die Serververwaltung näher kennen lernen.
             "
             year="2019"
             kind="individuelles Projekt"
@@ -21,7 +21,7 @@ function RaspberryPi () {
             My own Nextcloud
             '
             text='
-            Das Ziel war eine kleine eigene Cloud zu haben auf der man seine eigenen Daten ablegen kann. Dazu habe ich einen Raspberry Pi 3 verwendet, der gerade genügend Leistung bietet. Ich habe auf die SD-Karte das Betriebsystem drauf geladen, ihn ans Netzwerk gehängt und Nextcloud installiert. Dabei konnte ich etwas über Netzwerk-Technik erfahren und auch die erste Bekanntschaft machen mit dem Linuxsystem, mit welchem ich mich über SSH verbunden habe.
+            Das Ziel war eine kleine eigene Cloud zu haben, auf der man seine eigenen Daten ablegen kann. Dazu habe ich einen Raspberry Pi 3 verwendet, der gerade genügend Leistung bietet. Ich habe auf die SD-Karte das Betriebsystem drauf geladen, ihn ans Netzwerk gehängt und Nextcloud installiert. Dabei konnte ich etwas über Netzwerk-Technik erfahren und auch die erste Bekanntschaft machen mit dem Linuxsystem, mit welchem ich mich über SSH verbunden habe.
 
             '
             />
