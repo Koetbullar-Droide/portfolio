@@ -11,7 +11,7 @@ function Footer () {
 
     return (
         <div className=" w-full h-[15vh] bg-gray-900 flex justify-center items-center text-gray-300 flex-col font-normal" id="contact">
-            <a href="https://github.com/Koetbullar-Droide" className=" text-base md:text-lg">Designed & Build By Jannik Lüthi</a>
+            <a href="https://github.com/Koetbullar-Droide" className=" text-base md:text-lg">Designed & Built By Jannik Lüthi</a>
             <button onClick={scrollToTop}>
                 <i class="fa-solid fa-arrow-up text-2xl mt-3"></i>
                 
